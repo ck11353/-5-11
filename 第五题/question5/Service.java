@@ -1,7 +1,5 @@
 package question5;
 
-import java.util.Scanner;
-
 public class Service {
     private int amount;
     private String transactionId;
